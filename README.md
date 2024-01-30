@@ -27,8 +27,7 @@
  <!--- 🌱 I’m currently learning Web Dev. -->
    - 🔭 I’m currently working as a Software Developer Intern.
    - 👯 I’m looking to collaborate on Open Source Contributions. 
-   - 💬 Also practicing DSA as well as Microservices, App Dev.
-   - 😄 Pronouns: he/him.
+   - 💬 Also practicing DSA.
    - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jay-patel2002/)**  
 
 
