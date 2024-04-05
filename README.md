@@ -19,12 +19,12 @@
  
     
 
-<h3 align="center">My areas of Interest are Web & Software Development. Energetic and passionate Software Developer Intern @Scaler by @Interviewbit. Want to use my talent and skills to grow and expand the company with the scope of my constant improvement.</h3>
+<h3 align="center">My areas of Interest are Web & Software Development. Energetic and passionate Software Developer. Want to use my talent and skills to grow and expand the company with the scope of my constant improvement.</h3>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
  -->
 
  <!--- 🌱 I’m currently learning Web Dev. -->
-   - 🔭 I’m currently working as a Software Developer Intern.
+   - 🔭 I’m currently working as a Software Developer.
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Also practicing DSA.
    - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jay-patel2002/)**  
